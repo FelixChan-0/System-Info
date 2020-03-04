@@ -1,0 +1,14 @@
+D:\System Information\System Informaion\bin\Release\System Informaion.exe.config
+D:\System Information\System Informaion\bin\Release\System Informaion.exe
+D:\System Information\System Informaion\bin\Release\System Informaion.pdb
+D:\System Information\System Informaion\obj\x86\Release\MainWindow.baml
+D:\System Information\System Informaion\obj\x86\Release\MainWindow.g.cs
+D:\System Information\System Informaion\obj\x86\Release\App.g.cs
+D:\System Information\System Informaion\obj\x86\Release\System Informaion_MarkupCompile.cache
+D:\System Information\System Informaion\obj\x86\Release\System Informaion.g.resources
+D:\System Information\System Informaion\obj\x86\Release\System_Informaion.Properties.Resources.resources
+D:\System Information\System Informaion\obj\x86\Release\System Informaion.csproj.GenerateResource.cache
+D:\System Information\System Informaion\obj\x86\Release\System Informaion.csproj.CoreCompileInputs.cache
+D:\System Information\System Informaion\obj\x86\Release\System Informaion.exe
+D:\System Information\System Informaion\obj\x86\Release\System Informaion.pdb
+D:\System Information\System Informaion\obj\x86\Release\System Informaion.csprojAssemblyReference.cache
